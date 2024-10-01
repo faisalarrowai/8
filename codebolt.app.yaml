@@ -1,7 +1,7 @@
 appName: myExpress
 appUniqueId: faisalarrowai/my_app_name
 description: This app will create slides presentation for you.
-appVersion: 1.0.1
+appVersion: 1.0.2
 appRepoUrl: https://github.com/faisalarrowai/8.git
 appIconUrl: you-app-icon-url
 appAuthorUserId: faisalarrowai
