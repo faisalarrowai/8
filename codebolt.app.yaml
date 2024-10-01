@@ -1,16 +1,15 @@
-
 appName: myExpress
 appUniqueId: faisalarrowai/my_app_name
 description: This app will create slides presentation for you.
-appVersion: 1.0.0
+appVersion: 1.0.1
 appRepoUrl: https://github.com/faisalarrowai/8.git
 appIconUrl: you-app-icon-url
 appAuthorUserId: faisalarrowai
 forkedFrom: codeboltadmin/baseslidesapp
-install: 
-  steps: 
+install:
+  steps:
     - type: shell
-      command: npm install 
+      command: npm install
 use:
   prerunsteps:
     - type: shell
